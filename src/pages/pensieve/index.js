@@ -123,8 +123,8 @@ const PensievePage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Pensieve | Brittany Chiang</title>
-        <link rel="canonical" href="https://brittanychiang.com/pensieve" />
+        <title>Pensieve | Moses Paul</title>
+        <link rel="canonical" href="https://iammosespaulr.netlify.app/pensieve" />
       </Helmet>
 
       <StyledMainContainer>
@@ -147,7 +147,6 @@ const PensievePage = ({ location, data }) => {
                 const { frontmatter } = node;
                 const { title, description, slug, date, tags } = frontmatter;
                 const d = new Date(date);
-
                 return (
                   <StyledPost key={i} tabIndex="0">
                     <StyledPostInner>

@@ -1,11 +1,11 @@
 {
   "name": "v4",
-  "description": "Personal Website V4",
+  "description": "A Web Facade",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Moses Paul R <iammosespaulr@gmail.com> & Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/iammosespaulr/iammosespaulr.github.io"
   },
   "keywords": [
     "gatsby"
@@ -17,7 +17,8 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "husky": {
     "hooks": {
@@ -34,6 +35,13 @@
   },
   "dependencies": {
     "animejs": "^3.1.0",
+    "@illinois/react-use-local-storage": "^1.1.0",
+    "@jupyterlab/outputarea": "^0.19.1",
+    "@jupyterlab/rendermime": "^0.19.1",
+    "@phosphor/widgets": "^1.6.0",
+    "autoprefixer": "^9.4.7",
+    "classnames": "^2.2.6",
+    "codemirror": "^5.43.0",
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.18.7",
     "gatsby-image": "^2.2.34",
@@ -52,6 +60,7 @@
     "gatsby-source-filesystem": "^2.1.40",
     "gatsby-transformer-remark": "^2.6.39",
     "gatsby-transformer-sharp": "^2.3.7",
+    "juniper-js": "^0.1.0",
     "lodash": "^4.17.15",
     "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
@@ -72,6 +81,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "gatsby-remark-code-titles": "^1.1.0",
+    "gh-pages": "^2.2.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.1.2",
     "prettier": "^2.0.4"

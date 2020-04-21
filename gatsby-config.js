@@ -16,13 +16,12 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'MosesPaul',
+        short_name: 'MosesPaul',
         start_url: '/',
-        background_color: config.darkNavyColor,
-        theme_color: config.navyColor,
+        background_color: config.colors.darkNavy,
+        theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,
@@ -66,7 +65,7 @@ module.exports = {
               maxWidth: 700,
               linkImagesToOriginal: true,
               quality: 90,
-              tracedSVG: { color: '#64ffda' },
+              tracedSVG: { color: config.colors.green },
             },
           },
           {
