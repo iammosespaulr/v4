@@ -21,4 +21,4 @@ skills:
 
 Hello! I'm Moses
 
-Here are a few Languages &| Frameworks that I use:
+Here are a few Languages &| Frameworks that I've used:

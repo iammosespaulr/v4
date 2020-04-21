@@ -1,12 +1,9 @@
 ---
-date: '2020-11-01'
+date: '2020-21-03'
 title: 'Pensieve'
-github: ''
 external: 'pensieve'
-android: 'um'
 tech:
-  - Cordova
-company: 'um'
+  - Markdown
 showInProjects: true
 ---
 

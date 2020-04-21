@@ -1,8 +1,9 @@
 ---
-title: 'Hi, I am'
-name: 'Moses Paul'
-subtitle: 'I ( make | learn ) stuff'
+title: 'Hi, This website is'
+name: '( Under Construction 🚧 )'
+subtitle: 'You can find me explo(r|it)ing stuff'
 buttonText: 'Get In Touch'
 ---
 
-I do stuff that interests me.
+I'm Moses Paul.  
+I love Math, Physics ,and Computers.

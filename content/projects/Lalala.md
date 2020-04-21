@@ -9,5 +9,5 @@ tech:
   - iOS
   - Android
 company: 'TBA'
-showInProjects: true
+showInProjects: false
 ---

@@ -4,7 +4,7 @@ title: 'Blah Job'
 company: 'Earth'
 location: 'X'
 range: 'July - Dec 2029'
-url: 'https://iammosespaulr.github.io/course_starter/'
+url: 'https://iammosespaulr.github.io/'
 ---
 
 - Did some Stuff Blah
