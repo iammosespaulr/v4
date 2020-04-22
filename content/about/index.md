@@ -17,8 +17,14 @@ skills:
   - Basic
   - Assembly
   - Low Level C
+languages:
+  - English
+  - German
+  - Tamil
+  - Arabic
+  - Malayalam
+  - Spanish
+  - Russian
 ---
 
-Hello! I'm Moses
-
-Here are a few Languages &| Frameworks that I've used:
+### A few Programming ( Languages | Frameworks ) that I've used

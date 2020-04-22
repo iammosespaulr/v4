@@ -38,6 +38,7 @@ const Skill = styled.li`
   font-family: ${fonts.SFMono};
   font-size: ${fontSizes.smish};
   color: ${colors.slate};
+  font-weight: bolder;
   &:before {
     content: '▹';
     position: absolute;

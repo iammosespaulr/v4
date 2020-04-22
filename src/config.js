@@ -29,6 +29,14 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/iammosespaulr',
     },
+    {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/UCc6rtw4jtgETEkzTUoTGUKQ',
+    },
+    {
+      name: 'Medium',
+      url: 'https://medium.com/@iammosespaulr',
+    },
   ],
 
   navLinks: [

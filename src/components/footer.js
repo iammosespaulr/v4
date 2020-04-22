@@ -102,10 +102,16 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
+          href="https://github.com/iammosespaulr/v4"
+          target="_blank"
+          rel="nofollow noopener noreferrer">
+          <div>Remodeled by Moses Paul.</div>
+        </StyledGitHubLink>
+        <StyledGitHubLink
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brittany Chiang, and Modified by Moses Paul</div>
+          <div>Originally Designed &amp; Built by Brittany Chiang</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
