@@ -1,10 +1,24 @@
 ---
 title: 'Hi, This website is'
 name: '( Under Construction 🚧 )'
-subtitle: 'You can find me explo(r|it)ing stuff'
+subtitle: 'I love explo(r|it)ing boundaries'
 buttonText: 'Get In Touch'
 ---
 
-## I'm Moses Paul
+## I am Moses Paul
 
-### I love Math, Physics ,and Computers
+and 𝐈 💖 𝑀ath, 𝕻hysics, and 𝒞omputers 👨‍💻
+
+---
+
+### I am Fascinated by
+
+- Chaotic Systems
+- Computational Irreducibility
+- Non Linear Dynamics
+- Machine Learning and Artificial Intelligence
+- Emergent Structures and Properties
+- Networks
+- Set Theory
+- Formal Languages and Systems
+- Ethical Hacking and Penetration Testing
