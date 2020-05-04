@@ -1,13 +1,12 @@
 ---
-date: '2019-11-12'
-title: 'App'
+date: 'Blah'
+title: 'Blah'
 github: ''
 external: ''
 ios: ''
 android: ''
 tech:
-  - iOS
-  - Android
-company: 'TBA'
+  - Blah
+company: 'Blah'
 showInProjects: false
 ---
