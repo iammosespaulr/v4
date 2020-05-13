@@ -1,5 +1,5 @@
 ---
-date: '2029-12-21'
+date: '2017-12-21'
 title: 'Finalist'
 company: 'Google Code-In 2017'
 cover: './gci17.png'
