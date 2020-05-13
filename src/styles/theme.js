@@ -22,6 +22,8 @@ const theme = {
     transGreen: 'rgba(100, 255, 218, 0.07)',
     transNavy: 'rgba(10, 25, 47, 0.7)',
     shadowNavy: 'rgba(2, 12, 27, 0.7)',
+    black: '#000000',
+    whitey: '#ffffff',
   },
 
   fonts: {
