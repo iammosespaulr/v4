@@ -19,7 +19,7 @@ module.exports = {
         name: 'MosesPaul',
         short_name: 'MosesPaul',
         start_url: '/',
-        background_color: config.colors.darkNavy,
+        background_color: config.colors.black,
         theme_color: config.colors.black,
         display: 'minimal-ui',
       },
